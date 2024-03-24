@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900926071028",
+    "project_id": "blinkitcloneapp",
+    "storage_bucket": "blinkitcloneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900926071028:android:7182b109c6b20ec24a3ea1",
+        "android_client_info": {
+          "package_name": "jolchu.tolik.blinkitcloneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIstSLS41bLH-lqrELRjexqDyhts9L9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
